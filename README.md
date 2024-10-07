@@ -5,9 +5,14 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# SkyTrip Explorer
 
-[_Add a brief description of your project here._]
+SkyTrip Explorer is a dynamic React web application designed to help users discover and compare flight options from various airlines. Utilizing Skyscanner's API, the application allows users to search for flights based on their preferred destinations and travel dates. Key features include:
+
+- *Search Functionality*: Users can input departure and arrival cities along with travel dates to view available flight options.
+- *Filter Options*: Users can filter results by price, duration, and airline to find the best flights for their needs.
+- *User-Friendly Interface*: A responsive design ensures a seamless experience across devices, allowing users to plan their trips on-the-go.
+- *Favorite Flights*: Users can save their preferred flights to a favorites list for easy access later.
 
 ## npm script commands
 
